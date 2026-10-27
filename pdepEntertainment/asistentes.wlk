@@ -1,7 +1,7 @@
 import entradas.*
 
 class Asistente{
-    const abono
+    var property abono
     const historial = []
     var dinero
 
